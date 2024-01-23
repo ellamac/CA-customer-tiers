@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ca-customer-tiers/static/css/main.86c22831.css",
+    "main.js": "/ca-customer-tiers/static/js/main.60ecf027.js",
+    "index.html": "/ca-customer-tiers/index.html",
+    "main.86c22831.css.map": "/ca-customer-tiers/static/css/main.86c22831.css.map",
+    "main.60ecf027.js.map": "/ca-customer-tiers/static/js/main.60ecf027.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.86c22831.css",
+    "static/js/main.60ecf027.js"
+  ]
+}
